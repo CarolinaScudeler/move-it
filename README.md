@@ -1,5 +1,8 @@
 <h1 align="center">:massage: Move.it</h1>
-<p align="center">Projeto realizado durante a Next Level Week 4 da Rocketseat</p>
+<div align="center">
+  <p>Projeto realizado durante a Next Level Week 4 da Rocketseat</p>
+  <img src="https://imgur.com/5zouXQM.png" width="600px">
+</div>
 
 # 📖 Sobre
 <p>Aplicação com desafios utilizando a técnica de pomodoro, com o objetivo de melhorar sua produtividade e foco.</p>
